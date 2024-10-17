@@ -10,20 +10,20 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Running Page',
-  siteUrl: 'https://yihong.run',
-  logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
-  description: 'Personal site and blog',
+  siteTitle: '永远年轻',
+  siteUrl: 'https://run.jaychou.cf',
+  logo: 'https://avatars.githubusercontent.com/u/26641387?v=4',
+  description: '一双狂奔中的球鞋 一路强壮着我的肺',
   navLinks: [
     {
       name: 'Blog',
-      url: 'https://github.com/yihong0618/gitblog',
+      url: 'https://jaychou.cf',
     },
     {
       name: 'About',
-      url: 'https://github.com/yihong0618/running_page/blob/master/README-CN.md',
+      url: 'https://github.com/jaychoubaby',
     },
   ],
 };
 
-export default data;
+// export default data;
