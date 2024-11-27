@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Apple Health Export" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <time>2024-11-27T06:26:13Z</time>
+  </metadata>
+  <trk>
+    <name>Route 2024-02-17 8:55pm</name>
+    <trkseg>
+      <trkpt lon="114.335391" lat="30.530496"><ele>116.082499</ele><time>2024-02-17T12:55:11Z</time><extensions><speed>0.566120</speed><course>117.258281</course><hAcc>28.208187</hAcc><vAcc>5.728536</vAcc></extensions></trkpt>
+      <trkpt lon="114.335397" lat="30.530496"><ele>116.303671</ele><time>2024-02-17T12:55:12Z</time><extensions><speed>0.562478</speed><course>117.258284</course><hAcc>30.290632</hAcc><vAcc>5.747273</vAcc></extensions></trkpt>
+      <trkpt lon="114.335403" lat="30.530495"><ele>115.966200</ele><time>2024-02-17T12:55:13Z</time><extensions><speed>0.568927</speed><course>117.258287</course><hAcc>32.915559</hAcc><vAcc>5.766451</vAcc></extensions></trkpt>
+      <trkpt lon="114.335409" lat="30.530493"><ele>116.290196</ele><time>2024-02-17T12:55:14Z</time><extensions><speed>0.611832</speed><course>117.258290</course><hAcc>36.083503</hAcc><vAcc>5.785247</vAcc></extensions></trkpt>
+      <trkpt lon="114.335411" lat="30.530487"><ele>116.043560</ele><time>2024-02-17T12:55:15Z</time><extensions><speed>0.657588</speed><course>117.258291</course><hAcc>39.707633</hAcc><vAcc>5.804036</vAcc></extensions></trkpt>
+      <trkpt lon="114.335414" lat="30.530481"><ele>115.778657</ele><time>2024-02-17T12:55:16Z</time><extensions><speed>0.688863</speed><course>117.258293</course><hAcc>43.912461</hAcc><vAcc>5.823253</vAcc></extensions></trkpt>
+      <trkpt lon="114.335424" lat="30.530477"><ele>115.841686</ele><time>2024-02-17T12:55:17Z</time><extensions><speed>0.742781</speed><course>117.258298</course><hAcc>48.724424</hAcc><vAcc>5.842237</vAcc></extensions></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
